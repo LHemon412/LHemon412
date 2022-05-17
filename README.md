@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/lemon#2122)](https://discord.com/users/lemon#2122)
+[![Discord Presence](https://lanyard.cnrad.dev/api/219822143037243393)](https://discord.com/users/219822143037243393)
