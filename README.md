@@ -15,5 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lhemon412&theme=dark&show_icons=true&hide_border=true&bg_color=1a1c1f&border_radius=10)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lhemon412&theme=dark&show_icons=true&hide_border=true&bg_color=1a1c1f&border_radius=10&hide=prs,issues,contribs)
+
 [![Discord Presence](https://lanyard.cnrad.dev/api/219822143037243393)](https://discord.com/users/219822143037243393)
